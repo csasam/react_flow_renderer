@@ -18,11 +18,7 @@ function App() {
     <Row>
     <FactoryFlow />
     </Row>
-    <div>
-      <Button>Create Square Node</Button>{' '}
-      <Button>Create Circle Node</Button>{' '}   
-      <Button>Create Triangle Node</Button>{' '}
-    </div>
+    
       
     </Container>
   );
